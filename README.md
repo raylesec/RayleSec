@@ -18,13 +18,6 @@ Sou graduanda em Engenharia de Software dedicada a construir uma base sólida em
 
 ---
 
-### Estatísticas do GitHub
-
-![Estatísticas de Rayle](https://github-readme-stats.vercel.app/api?username=raylesec&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=raylesec&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raylemartins/)
