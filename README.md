@@ -66,3 +66,16 @@ Atualmente aprofundando meus conhecimentos em:
 Minha trajetória está sendo construída primeiro pela **Segurança Defensiva**, buscando compreender como eventos são identificados, analisados e respondidos em ambientes corporativos.
 
 A longo prazo, quero levar essa base para a **Segurança Ofensiva**, entendendo os dois lados da segurança.
+
+---
+
+### 💌 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raylemartins/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=0D1117">
+  </a>
+</p>
+<p align="center">
+  <i>Estudar • Praticar • Evoluir • Conquistar</i>
+</p>
