@@ -5,7 +5,6 @@
 Construindo uma base sólida em Segurança Defensiva e ambientes corporativos,
 com o objetivo de evoluir futuramente para Segurança Ofensiva.
 </p>
----
 
 ## Sobre mim
 
@@ -30,7 +29,6 @@ Atualmente, estou construindo uma base prática em **SOC, análise de eventos, s
 </div>
 
 <br>
----
 
 ##  Ferramentas & Tecnologias
 
@@ -46,7 +44,6 @@ Atualmente, estou construindo uma base prática em **SOC, análise de eventos, s
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF69B4)
 
 </div>
----
 
 ##  Em desenvolvimento
 
@@ -67,7 +64,6 @@ Minha trajetória está sendo construída primeiro pela **Segurança Defensiva**
 
 A longo prazo, quero levar essa base para a **Segurança Ofensiva**, entendendo os dois lados da segurança.
 
----
 
 ### 💌 Vamos nos conectar?
 
