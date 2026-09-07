@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Ray!!!</h1>
+<h1 align="center">Oiee, me chamo Ray!!!</h1>
 
 <h3 align="center">
 Engenharia de Software • Cibersegurança • Segurança Defensiva
